@@ -330,7 +330,7 @@ body{
 
 .main__p{
     font-family: 'Nunito', sans-serif;
-    font-size: 22;
+    font-size: 22px;
 }
 
 .main__additionally{
@@ -355,7 +355,7 @@ body{
 }
 
 .p__comparison{
-    font-size: 28px;
+    font-size: 22px;
     font-family: 'Nunito', sans-serif;
 }
 
